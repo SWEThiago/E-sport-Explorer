@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💛 Contato
 
-maykbrito@gmail.com
+thiagodevprogramador@gmail.com
